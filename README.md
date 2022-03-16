@@ -4,3 +4,5 @@ Automatic Speech Recognition Project which accepts one recording at a time, whic
 
 The system splits the sentence and then recognizes each word.
 A text with the recognized digits is generated at the output.
+
+Dataset: https://github.com/Jakobovski/free-spoken-digit-dataset
